@@ -1,11 +1,6 @@
 ---
 layout: page
-title: K
+title: "New Page"
+description: ""
 ---
 {% include JB/setup %}
-
-
-Welcome!
-
-
-
